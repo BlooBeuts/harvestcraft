@@ -1,0 +1,16 @@
+[
+{
+  "modid": "harvestcraft",
+  "name": "Pam's HarvestCraft",
+  "description": "An absolutely huge farming and food mod.",
+  "version": "1.7.10g",
+  "mcversion": "1.7.10",
+  "url": "http://minecraft.curseforge.com/members/MatrexsVigil/projects",
+  "updateUrl": "",
+  "authorList": ["Pamela Collins"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
